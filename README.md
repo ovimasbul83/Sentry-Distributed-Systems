@@ -37,6 +37,7 @@ pip install -r requirements.txt
 1. Start the kafka server (if running locally)
 2. Run the application:
 ```bash
+cd app
 python main.py
 ```
 
