@@ -17,7 +17,7 @@ This project implements a distributed system using modern Python technologies an
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ovimasbul83/Sentry-Distributed-Systems.git
 cd Sentry-Distributed-Systems
 ```
 
