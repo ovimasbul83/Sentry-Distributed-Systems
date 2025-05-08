@@ -6,8 +6,7 @@ This project implements a distributed system using modern Python technologies an
 
 - FastAPI-based REST API
 - Asynchronous processing
-- Redis for caching and message queuing
-- Comprehensive testing setup
+- Kafka for message queuing
 
 ## Prerequisites
 
