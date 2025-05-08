@@ -11,14 +11,14 @@ This project implements a distributed system using modern Python technologies an
 ## Prerequisites
 
 - Python 3.8+
-- Redis (if running locally)
+- Kafka (if running locally)
 
 ## Installation
 
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd distributed-system
+cd Sentry-Distributed-Systems
 ```
 
 2. Create and activate a virtual environment:
@@ -34,10 +34,10 @@ pip install -r requirements.txt
 
 ## Running the Application
 
-1. Start the Redis server (if running locally)
+1. Start the kafka server (if running locally)
 2. Run the application:
 ```bash
-uvicorn app.main:app --reload
+python main.py
 ```
 
 ## Development
