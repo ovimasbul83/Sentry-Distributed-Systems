@@ -44,8 +44,6 @@ uvicorn app.main:app --reload
 ## Development
 
 - Code formatting: `black .`
-- Linting: `flake8`
-- Testing: `pytest`
 
 ## Project Structure
 
