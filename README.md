@@ -52,7 +52,7 @@ distributed-system/
 ├── app/
 │   ├── api/
 │   ├── core/
-│   └── services/
+│   └── kafka_test/
 ├── requirements.txt
 └── README.md
 ```
