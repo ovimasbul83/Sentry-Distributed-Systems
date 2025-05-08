@@ -55,7 +55,6 @@ distributed-system/
 │   ├── api/
 │   ├── core/
 │   └── services/
-├── tests/
 ├── requirements.txt
 └── README.md
 ```
